@@ -8,5 +8,7 @@ This repository is free to use
 ## How to set this up
 - More information can be found here: [CLion-DLL-Example/ReadMe](https://github.com/SleepyFish-YT/CLion-DLL-Example/blob/main/README.MD)
 
-## Discord Server:
+## Discord Server
 <a href="https://discord.gg/7JXXvkufJK"><img src="https://invidget.switchblade.xyz/7JXXvkufJK" alt="https://discord.gg/7JXXvkufJK"/></a>
+
+###### Signed by SleepyFish.
